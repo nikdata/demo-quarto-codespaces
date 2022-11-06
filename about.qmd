@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+I am modifying this outside of the codespace environment to see if it shows up in RStudio within Codespaces.
+
 ```{r}
 1 + 1
 ```
