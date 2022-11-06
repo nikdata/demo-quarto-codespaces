@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "I am modifying this outside of the codespace environment to see if it shows up in RStudio within Codespaces.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",

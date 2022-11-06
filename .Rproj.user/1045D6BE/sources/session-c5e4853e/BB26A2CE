@@ -3,7 +3,7 @@
     "path": "/workspaces/demo-quarto-codespaces/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "195789077",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1667745634378.0,
@@ -14,9 +14,11 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "docOutlineVisible": "1",
+        "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "28:0"
+        "rmdVisualModeLocation": "28:0",
+        "cursorPosition": "6,23",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1667745363,
