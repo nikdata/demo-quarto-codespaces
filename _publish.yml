@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f079b2ac-9ccf-4bb3-9066-973991a8bf4f
+      url: 'https://classy-pika-87bf3e.netlify.app'
