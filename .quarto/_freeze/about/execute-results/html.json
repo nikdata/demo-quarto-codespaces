@@ -2,9 +2,7 @@
   "hash": "770dbb25a9d032932e25c7e2b2bada49",
   "result": {
     "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\nI am modifying this outside of the codespace environment to see if it shows up in RStudio within Codespaces.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [
-      "about_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
