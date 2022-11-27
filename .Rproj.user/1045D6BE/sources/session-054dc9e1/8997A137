@@ -1,12 +1,12 @@
 {
-    "id": "85D480F8",
+    "id": "8997A137",
     "path": "/workspaces/demo-quarto-codespaces/_publish.yml",
     "project_path": "_publish.yml",
     "type": "yaml",
-    "hash": "4257016575",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1667747918196.0,
+    "created": 1667748017850.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667747951619,
+    "last_content_update": 1667747951,
     "read_only": false,
     "read_only_alternatives": []
 }
